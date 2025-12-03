@@ -1,0 +1,6 @@
+/logs
+/minio_data
+/airflow.db
+/airflow_home
+docker-compose.yaml
+Dockerfile
